@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-26T07:56+00:00",
+  "fetched_at": "2026-11-27T07:53+00:00",
   "feedback": {
-    "score": 4095,
+    "score": 4089,
     "positive_pct": "100%",
     "positive": {
-      "1m": 13,
+      "1m": 12,
       "6m": 80,
-      "12m": 364
+      "12m": 360
     },
     "neutral_12m": 0,
     "negative_12m": 0,
@@ -37,6 +37,18 @@
     ]
   },
   "listings": [
+    {
+      "title": "Genuine TAG Heuer Aquaracer Superdiver Orange Rubber Strap BT6300 Deployant New",
+      "price": "£309.99",
+      "image": "https://i.ebayimg.com/images/g/6I0AAeSwIulrCB6R/s-l800.jpg",
+      "item_id": "147698880642"
+    },
+    {
+      "title": "2025 Tag Heuer Aquaracer Professional 300 GMT Batman 42mm full set warranty 2030",
+      "price": "£3,295.00",
+      "image": "https://i.ebayimg.com/images/g/210AAeSwV5NrCBMf/s-l800.jpg",
+      "item_id": "147698832302"
+    },
     {
       "title": "Genuine TAG Heuer Watch Box Set Black Leather Red Stitching Presentation New",
       "price": "£79.99",
@@ -230,34 +242,28 @@
       "item_id": "137773561829"
     },
     {
-      "title": "Breitling Avenger 43 Automatic GMT Watch near mint full set 1 year waranty white",
-      "price": "£2,999.00",
-      "image": "https://i.ebayimg.com/images/g/znIAAeSwJQppz8y-/s-l800.jpg",
-      "item_id": "137773561830"
-    },
-    {
       "title": "Watch box travel case hard shell robust rugged coffin for Citizen watches",
       "price": "£24.99",
       "image": "https://i.ebayimg.com/images/g/J24AAOSw-rdn2AY6/s-l800.jpg",
-      "item_id": "137773561831"
+      "item_id": "137773561830"
     },
     {
       "title": "Tag Heuer COSC chronometer  certified booklet leaflet insert box brown",
       "price": "£12.74",
       "image": "https://i.ebayimg.com/images/g/7zcAAeSwE1RobQYa/s-l800.jpg",
-      "item_id": "137773561832"
+      "item_id": "137773561831"
     },
     {
       "title": "Tag Heuer Manchester United Formula One F1  booklet leaflet insert box",
       "price": "£12.74",
       "image": "https://i.ebayimg.com/images/g/4gMAAeSw7vhobQeG/s-l800.jpg",
-      "item_id": "137773561833"
+      "item_id": "137773561832"
     },
     {
-      "title": "Tag Heuer 24 Preferred Owner Program CD-ROM DVD  ONLY  Tag Heuer Watches",
-      "price": "£12.74",
+      "title": "Tag Heuer watch bracelet links BA0843/1 / BA0970/1  FM0345 Formula One Pin tube",
+      "price": "£50.99",
       "image": "https://i.ebayimg.com/images/g/H2QAAeSwx4po9AGj/s-l800.jpg",
-      "item_id": "137773561834"
+      "item_id": "137773561833"
     }
   ]
 }
