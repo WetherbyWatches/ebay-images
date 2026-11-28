@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-27T07:53+00:00",
+  "fetched_at": "2026-11-28T07:47+00:00",
   "feedback": {
-    "score": 4089,
+    "score": 4095,
     "positive_pct": "100%",
     "positive": {
       "1m": 12,
       "6m": 80,
-      "12m": 360
+      "12m": 359
     },
     "neutral_12m": 0,
     "negative_12m": 0,
@@ -37,6 +37,12 @@
     ]
   },
   "listings": [
+    {
+      "title": "2024 TAG Heuer Aquaracer Professional 1000 Superdiver full set warranty 2029",
+      "price": "£2,999.00",
+      "image": "https://i.ebayimg.com/images/g/Aj4AAeSwJmNrCXUH/s-l800.jpg",
+      "item_id": "137967394012"
+    },
     {
       "title": "Genuine TAG Heuer Aquaracer Superdiver Orange Rubber Strap BT6300 Deployant New",
       "price": "£309.99",
@@ -258,12 +264,6 @@
       "price": "£12.74",
       "image": "https://i.ebayimg.com/images/g/4gMAAeSw7vhobQeG/s-l800.jpg",
       "item_id": "137773561832"
-    },
-    {
-      "title": "Tag Heuer watch bracelet links BA0843/1 / BA0970/1  FM0345 Formula One Pin tube",
-      "price": "£50.99",
-      "image": "https://i.ebayimg.com/images/g/H2QAAeSwx4po9AGj/s-l800.jpg",
-      "item_id": "137773561833"
     }
   ]
 }
